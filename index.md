@@ -5,7 +5,9 @@ subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
 
+TEST
 
+**Bold?**
 <!--
 <div class="posts-list">
   {% for post in paginator.posts %}

@@ -5,7 +5,7 @@ subtitle: Recent Graduate of Penn State
 use-site-title: true
 ---
 
-Welcome! My name is Ryan Jaeger, and I am a recent graduate of the Pennsylvania State University. Starting in August 2019, I will be working as a Data & Analytics Associate at KPMG based out of Philadelphia, PA. This website is a collection of my work inside and outside the classroom during my time at Penn State. Feel free to reach out to me by email at rjaeger66@gmail.com
+Welcome! My name is Ryan Jaeger, and I am a recent graduate of the Pennsylvania State University. Starting in August 2019, I will be working as a Data & Analytics Associate at KPMG based out of Philadelphia, PA. This website is a collection of my work inside and outside the classroom during my time at Penn State. Feel free to reach out to me by email at rjaeger66@gmail.com.
 
 
 <!--

@@ -25,7 +25,7 @@ For an applied data science course, my partner and I were tasked with developing
 
 As a term project for a regression course, I developed a multiple regression model to predict the number of violent crimes in US communities using demographic data from the 1990s supplied by the UCI Machine Learning Repository. To best fit the data, we employed a number of regression techniques, including normalization, weighted least squares, and backward elimination. Our final model was able to explain 66% of the variability in violent crimes per capita, a surprisingly high amount for real socioeconomic data. From this project, I learned the challenges of fitting regression models to real life data. 
 
-### Automated Theorem Proving Literature Review ([PDF] files/Jaeger_LitReview_004.pdf)
+### Automated Theorem Proving Literature Review ([PDF])(files/Jaeger_LitReview_004.pdf)
 <p align="center">
   <img src="/files/ATP.png" alt="ATP" width = "400"/>
 </p>

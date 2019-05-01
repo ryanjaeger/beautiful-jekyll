@@ -21,6 +21,16 @@ During sophomore year, Academy members take a seminar with the President Barron 
 
 ### Blogging
 
+Weekly blogging is a required part of the Presidential Leadership Academy, and it serves as an opportunity to reflect on the leadership lessons discussed in class, current events, or other musings. Here is a selection of some of my favorite blogs throughout my three years with PLA: 
+* Item 1
+* Item 2
+* Item 3
+
+
+
+
+
+
 
 ### Field Trips
 

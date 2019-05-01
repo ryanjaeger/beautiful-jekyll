@@ -24,7 +24,7 @@ description: E-portfolio
 # List of links in the navigation bar
 navbar-links:
   Home: "index"
-  About Me: "aboutme"
+  Academics: "academics"
   Test: "test"
   Resume: "JaegerResumeApr2019.pdf"
 

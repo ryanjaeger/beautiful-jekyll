@@ -25,7 +25,8 @@ description: E-portfolio
 navbar-links:
   Home: "index"
   Academics: "academics"
-  Test: "test"
+  Research: "research"
+  PLA: "pla"
   Resume: "files/JaegerResumeApr2019.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)

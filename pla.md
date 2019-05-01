@@ -22,14 +22,11 @@ During sophomore year, Academy members take a seminar with the President Barron 
 ### Blogging
 
 Weekly blogging is a required part of the Presidential Leadership Academy, and it serves as an opportunity to reflect on the leadership lessons discussed in class, current events, or other musings. Here is a selection of some of my favorite blogs throughout my three years with PLA: 
-* Item 1
-* Item 2
-* Item 3
-
-
-
-
-
+* [Harmony in Leadership](http://sites.psu.edu/academy/2018/10/10/harmony-leadership/)
+* [Philanthropy at Penn State](http://sites.psu.edu/academy/2017/02/26/philanthropy-at-penn-state/)
+* [Falling in and out of Love with "Africa" by Toto](http://sites.psu.edu/academy/2019/03/31/falling-in-and-out-of-love-with-africa-by-toto/)
+* [Balancing Quiet and Noise](http://sites.psu.edu/academy/2019/02/03/balancing-quiet-and-noise/)
+* [Thanks PLA](http://sites.psu.edu/academy/2019/04/21/thanks-pla/)
 
 
 ### Field Trips

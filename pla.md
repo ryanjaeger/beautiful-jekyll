@@ -1,3 +1,5 @@
 ---
-title: Presidential Leadership Academy
+title: PLA
+subtitle: Presidential Leadership Academy
+
 ---

@@ -5,7 +5,7 @@ title: Academics
 
 At Penn State, I majored in Mathematics, and took a series of courses in discrete mathematics, linear programming, linear algebra, combinatorics, and stochastic modeling. Beyond my math coursework, I also took classes in data science, statistics, and technical writing to round out my education. Below is a selection of projects from my undergraduate coursework that best capture my computational, statistical, and communication abilities. 
 
-[Speech Emotion Recognition](files/Color Histograms for SER.pdf)
+Speech Emotion Recognition ([PDF](files/Color Histograms for SER.pdf))
 
 <p align="center">
   <img src="/files/Spectrogram.png" alt="Spectrogram" width = "400"/>

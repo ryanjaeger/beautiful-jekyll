@@ -9,7 +9,7 @@ use-site-title: true
   <img src="/img/BeemiaPic.png" alt="Ryan Jaeger" width = "400"/>
 </p>
 
-Welcome! My name is Ryan Jaeger, and I am a recent graduate of the Pennsylvania State University. Starting in August 2019, I will be working as a Data & Analytics Associate at KPMG in Philadelphia, PA. This website is a collection of my work inside and outside the classroom during my time at Penn State. Feel free to reach out to me by email at rjaeger66@gmail.com!
+Welcome! My name is Ryan Jaeger, and I am a recent graduate of the Pennsylvania State University. Starting in August 2019, I will be working as a Data & Analytics Associate at KPMG in Philadelphia, PA. This website is a collection of my work inside and outside the classroom during my time at Penn State. Feel free to reach out to me by email at [rjaeger66@gmail.com](mailto:rjaeger66@gmail.com)!
 
 
 <!--

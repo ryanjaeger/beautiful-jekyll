@@ -58,7 +58,7 @@ In the fall of my junior year, I joined PLA on the trip to Washington DC. While 
   <img src="/files/Chicago.jpg" alt="Plot" width = "600"/>
 </p>
 
-My second spring break trip with PLA was to the Windy City of Chicago. This was an especially meaningful trip to me, because I would spend summer 2018 in Chicago, so I got a first glimpse at the city I would call home for June and July. The highlight of this was a Jazz & Blues tour of the city where we learned about the progression of these musical genres in the context of the city's history. My full reflection on the Chicago trip can be found [here.] (http://sites.psu.edu/academy/2018/04/08/refreshed-thankful-motivated/)
+My second spring break trip with PLA was to the Windy City of Chicago. This was an especially meaningful trip to me, because I would spend summer 2018 in Chicago, so I got a first glimpse at the city I would call home for June and July. The highlight of this was a Jazz & Blues tour of the city where we learned about the progression of these musical genres in the context of the city's history. My full reflection on the Chicago trip can be found [here.](http://sites.psu.edu/academy/2018/04/08/refreshed-thankful-motivated/)
 
 #### Los Angeles, Spring 2019
 <p align="center">

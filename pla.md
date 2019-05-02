@@ -68,4 +68,9 @@ My second spring break trip with PLA was to the Windy City of Chicago. This was 
 My final trip with PLA was to Los Angeles in the spring of 2019. This trip was special, because it offered an opportunity to meet and bond with the younger members of PLA. I was now the senior in the program that I once looked up to. On this trip, we met with leaders of educational non-profits, entertainment producers, and museum curators to learn about many facets of the city. My biggest takeaway from this trip was the reminder that the world is a lot bigger than Penn State, and I have so much left to explore. To read more about my LA trip, click [here.](http://sites.psu.edu/academy/2019/03/13/plainvadesla/)
 
 ### Reflection
+As I finish my time in PLA, I realize that my perspective has become much broader. Coming into the program, I considered myself a pretty well-informed individual with a good understanding of the world around me. If PLA has taught me anything, it's humility in my own expertise. There is so much of the world that I do not understand, and so many people's stories that I have not yet heard. As I exit the Academy, I will always remember to be a lifelong student and continue developing my world view. 
+
+Coming into the program, I would describe my leadership style as one based around preparation and expertise. In high school, I would lead a team by being the most prepared and having a plan already in place. As I have taken on more leadership roles in college and studied leadership through PLA, I realize now that my leadership style is more relationship-centric. I like to understand members of my team, what motivates them, and what their strengths are. Once I have an understanding of my team members' personal qualities, I can then make decision that allow them to succeed. I hope to take this practice with me as I enter the workforce and take on future leadership roles. 
+
+
 

@@ -30,7 +30,17 @@ Weekly blogging is a required part of the Presidential Leadership Academy, and i
 
 
 ### Field Trips
+Each semester the PLA takes a field trip to a different location within the US to broaden the horizons of the students and provide a more comprehesive understanding of leadership beyond Penn State. Over my time with PLA, I attended trips to New York, Seattle, DC, Chicago, and Los Angeles.
 
+##### New York
+
+##### Seattle
+
+##### DC
+
+##### Chicago
+
+##### Los Angeles
 
 ### Reflection
 
